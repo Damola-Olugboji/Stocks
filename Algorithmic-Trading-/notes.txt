@@ -1,0 +1,11 @@
+Important 
+- diversification of porfolio with high and low volatility stocks. 
+
+approaches
+1. using multiple moving averages to verify the validity of trends of a stock
+
+1. analyze support and resistance trend lines 
+2. await for confirmation (candlestick patterns)
+3. set stop loss to limit potential losses
+
+https://www.optionstrading.org/strategies/other/delta-neutral/#:~:text=Delta%20neutral%20strategies%20are%20options,close%20to%20zero%20as%20possible.
